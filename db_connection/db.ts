@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import User from '../models/userModel';
+import { User } from '../models/userModel';
 import Follow from '../models/follower';
 import  comment  from '../models/comments';
 import  post  from '../models/postmodel';
